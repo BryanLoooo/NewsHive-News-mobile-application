@@ -1,13 +1,3 @@
-Here’s a professional **README.md** and **300-character GitHub description** for your *NewsHive* (formerly *NewsDeck*) mobile application project, based on your uploaded report.
-
----
-
-### 📰 **300-Character GitHub Description**
-
-> A React Native news app built with Expo and NewsAPI. Features article browsing, favorites, user accounts, dark/light themes, and an analytics dashboard with charts showing news trends. Focused on modular design, clean UI, and data-driven insights for meaningful news consumption.
-
----
-
 ### 📘 **README.md**
 
 ```markdown
