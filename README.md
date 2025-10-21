@@ -1,7 +1,6 @@
-### 📘 **README.md**
+# 📘 README.md
 
-```markdown
-# 📰 NewsHive — Mobile News & Analytics Application
+## 📰 NewsHive — Mobile News & Analytics Application
 
 **NewsHive** is a cross-platform mobile application built with **React Native** and **Expo**, designed to let users explore, bookmark, and analyze global news articles.  
 Beyond reading, the app transforms consumption into insight through an interactive **Analytics Dashboard** that visualizes trends, topics, and article distributions.
@@ -98,7 +97,7 @@ Built using `useMemo` hooks for optimal performance and reactivity.
    ```bash
    git clone https://github.com/BryanLoooo/Mobile-Development-NewsHive-News-mobile-application.git
    cd NewsHive
-````
+   ```
 
 2. Install dependencies:
 
