@@ -6,6 +6,8 @@
 Beyond reading, the app transforms consumption into insight through an interactive **Analytics Dashboard** that visualizes trends, topics, and article distributions.
 
 ---
+## Video Demonstration
+https://youtu.be/TGnkmvBHCR8
 
 ## 🧠 Project Overview
 
@@ -145,11 +147,3 @@ Built using `useMemo` hooks for optimal performance and reactivity.
 * Analytics dashboard that differentiates the app from standard readers.
 * Accessibility via light/dark theming.
 * Well-documented, maintainable, and scalable design.
-
----
-
-## 🧩 Video Demo
-
-📺 [Watch on YouTube](https://youtu.be/TGnkmvBHCR8)
-
----
